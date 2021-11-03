@@ -1,4 +1,4 @@
-# NNExamples
+# Neural Network Examples
 This repository contains simple Neural Network examples with Python.
 
 ## Notebooks
